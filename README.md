@@ -1,4 +1,4 @@
-# Masai School Construct Week Project
+# KimayeClone Project
 
 Welcome, we're are team “KimayeClone”, and this Readme contains detail about our project. We‘ve built a cloned website of kimaye.com with some of its basic functionalities. This overall project was my personal project.
 
