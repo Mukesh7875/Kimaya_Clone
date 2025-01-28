@@ -1,7 +1,6 @@
 # Masai School Construct Week Project
 
-Welcome, we're are team “KimayeClone”, and this Readme contains detail about our project. We‘ve built a cloned website of kimaye.com with some of its basic functionalities. This overall project was a part of our construct week at Masai School.
-
+Welcome, we're are team “KimayeClone”, and this Readme contains detail about our project. We‘ve built a cloned website of kimaye.com with some of its basic functionalities. This overall project was my personal project.
 
 ## About Project
 Kimaye is India's best and most trusted Fruits provider website which has helped millions of needies. Building this project has been a chellenging job and fun at the same time. This project is build using tech stacks like <br />
@@ -22,26 +21,6 @@ Kimaye is India's best and most trusted Fruits provider website which has helped
 ## Deployment Link
 
 https://kimayeclone.netlify.app/
-
-## 🔗 Team Members
-    1. Akshay Kanherkar - Leader
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://akshay-kanherkar.netlify.app)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-kanherkar-0178531b1/)
-    
-    2. Shashank Kumar
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-kumar-83008122b/)
-    
-    3. Shoaib Patel
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaib-patel-230449203/)
-    
-    4. Aman Khan
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-khan-5295a417b/)
-    
-    5. Vishal Gholve
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-gholve-444b9122b/)
-
-    6. Komal Tiwari
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komal-tiwari-/)
 
 
 ## Feedback
